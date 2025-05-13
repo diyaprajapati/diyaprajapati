@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 Featured Projects  
-- **[ContentAura](https://github.com/diyaprajapati/ContentAura)** - A B2B content management system with dynamic schemas and APIs.  
+- **[ContentAura](https://github.com/diyaprajapati/ContentAura)** - A content management system with dynamic schemas and APIs.  
 - **[ProjectHunt](https://github.com/diyaprajapati/ProjectHunt)** - A platform to showcase and upvote projects, built with React & Spring Boot.  
 
 ---
