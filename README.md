@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diya Prajapati</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
-- 🔭 I’m currently working on [ContentAura](https://github.com/diyaprajapati/ContentAura.git)
+- 🔭 I’m currently working on [ContentAura](https://github.com/diyaprajapati/SmartMarketer.git)
 
 - 🌱 I’m currently learning **Advanced Spring Boot & C++ for Competitive Programming**
 
